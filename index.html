@@ -21,37 +21,40 @@
     <title>Frontend Mentor | Product preview card component</title>
   </head>
   <body>
-    <div class="component">
-      <div class="main-image">
-        <img
-          width="335px"
-          height="auto"
-          src="./images/image-product-mobile.jpg"
-          alt="perfume-desktop-image"
-        />
-      </div>
-      <div class="product-description">
-        <span>PERFUME</span>
-        <h1>Gabrielle Essence Eau De Parfum</h1>
-        <p>
-          A floral, solar and voluptuous interpretation composed by Olivier
-          Polge, Perfumer-Creator for the House of CHANEL.
-        </p>
-        <div class="order">
-          <div class="price">
-            <span class="sale-price">$149.99</span>
-            <span class="original-price">$169.99</span>
+    <section>
+      <div class="component">
+        <div class="main-image">
+          <img
+            class="main-image"
+            width="335px"
+            height="auto"
+            src="./images/image-product-mobile.jpg"
+            alt="perfume-desktop-image"
+          />
+        </div>
+        <div class="product-description">
+          <span class="category-name">PERFUME</span>
+          <h1>Gabrielle Essence Eau De Parfum</h1>
+          <p>
+            A floral, solar and voluptuous interpretation composed by Olivier
+            Polge, Perfumer-Creator for the House of CHANEL.
+          </p>
+          <div class="order">
+            <div class="price">
+              <span class="sale-price">$149.99</span>
+              <span class="original-price">$169.99</span>
+            </div>
+            <button>
+              <img
+                class="cart-image"
+                src="./images/icon-cart.svg"
+                alt="cart-image"
+              />
+              Add to Cart
+            </button>
           </div>
-          <button>
-            <img
-              class="cart-image"
-              src="./images/icon-cart.svg"
-              alt="cart-image"
-            />
-            Add to Cart
-          </button>
         </div>
       </div>
-    </div>
+    </section>
   </body>
 </html>
