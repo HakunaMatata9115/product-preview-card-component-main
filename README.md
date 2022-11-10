@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile](./images/mobile.gif)
+![Mobile](<./images/mobile%20(1).gif>)
 
 ### Links
 
@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-- 
+-
 
 ### Continued development
 
