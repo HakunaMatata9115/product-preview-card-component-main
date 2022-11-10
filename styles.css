@@ -165,13 +165,14 @@ button:hover {
   background-color: var(--color-white);
   border: solid 1px var(--color-dark-cyan);
   cursor: pointer;
+  padding-right: 50px;
 }
 
 .cart-image {
   margin-right: 10px;
 }
 
-/* <=1440 (Desktop) */
+/* >=1440 (Desktop) */
 @media screen and (min-width:1440px) {
 
   /* product */
