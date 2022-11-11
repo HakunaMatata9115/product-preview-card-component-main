@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Product preview card component coding challenge](./images/component.gif)
 
 ## Table of contents
 
@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile](<./images/mobile%20(1).gif>)
+![Mobile](./images/screenshot.png)
 
 ### Links
 
@@ -44,10 +44,6 @@ Users should be able to:
 ### What I learned
 
 -
-
-### Continued development
-
-- Desktop version responsive
 
 ## Author
 
