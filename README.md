@@ -19,8 +19,9 @@
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
+✅ View the optimal layout depending on their device's screen size
+
+✅ See hover and focus states for interactive elements
 
 ### Screenshot
 
@@ -28,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-vTy_WOgfbs)
+- Live Site URL: [live site URL here](https://hyeyoung-lucia.github.io/product-preview-card-component-main/)
 
 ## My process
 
